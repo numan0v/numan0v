@@ -1,4 +1,6 @@
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=180&section=header&text=Muhammadrizo&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
 <div align="center">
 
 # Hi there, I'm Muhammadrizo 👋
