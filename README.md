@@ -93,3 +93,26 @@ A web-based school library management system designed to digitize library operat
 </picture>
 
 </div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://t.me/nomonov_r">
+  <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/numan0v.uz/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://github.com/nomonov-r">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://numanov.pythonanywhere.com/">
+  <img src="https://img.shields.io/badge/My_Website-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=120&section=footer"/>
